@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GraphicsVerifyView">
+        <attr name="seekBorderWidth" format="dimension"/>
+        <attr name="seekBgColor" format="color"/>
+        <attr name="seekDefaultColor" format="color"/>
+        <attr name="seekBorderColor" format="color"/>
+        <attr name="seekTouchColor" format="color"/>
+        <attr name="seekVerFailColor" format="color"/>
+        <attr name="seekVerSuccessColor" format="color"/>
+        <attr name="seekArrowDefaultColor" format="color"/>
+        <attr name="seekArrowTouchColor" format="color"/>
+        <attr name="imgSrc" format="reference"/>
+        <attr name="offsetDegrees" format="float"/>
+    </declare-styleable>
+</resources>
